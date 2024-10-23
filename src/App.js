@@ -1,5 +1,6 @@
 import './App.css';
-import FoodContainer from './docs/map/basic/FoodContainer';
+import Check from './docs/ref/Check';
+
 
 
 //import Jsx01, {Jsx02,Jsx03} from './docs/components/Jsx01';
@@ -8,7 +9,7 @@ import FoodContainer from './docs/map/basic/FoodContainer';
 function App() {
   return (
     <>
-        <FoodContainer/>
+        <Check/>
     </>
   );
 }
