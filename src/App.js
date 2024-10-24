@@ -1,5 +1,5 @@
 import './App.css';
-import Check from './docs/ref/Check';
+import FoodContainer from './docs/ref/expert/FoodContainer';
 
 
 
@@ -9,7 +9,7 @@ import Check from './docs/ref/Check';
 function App() {
   return (
     <>
-        <Check/>
+        <FoodContainer/>
     </>
   );
 }
